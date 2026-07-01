@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://palmdesertpestcontrolco.com/sitemap.xml
